@@ -91,7 +91,6 @@ class BotaoInterfaceUsuario {
   private multimidia = new SistemaDeVideoESom();
 
   aoClicarNoBotaoCinema(): void {
-    // Código misturado com a interface de usuário.
     console.log("Iniciando...");
     this.luzes.ajustarBrilho(10);
     this.ar.ligar();
