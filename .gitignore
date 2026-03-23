@@ -1,0 +1,6 @@
+// Ignore those files and folders when committing to git
+
+node_modules
+tsconfig.json
+package-lock.json
+package.json
